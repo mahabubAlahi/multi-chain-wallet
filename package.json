@@ -1,0 +1,28 @@
+{
+  "name": "test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "api": "^5.0.6",
+    "bip32": "^3.1.0",
+    "bip39": "^3.0.4",
+    "bitcoinjs-lib": "^6.1.0",
+    "bitcore-lib-cash": "^8.25.46",
+    "bitcore-lib-doge": "^8.25.46",
+    "bitcore-lib-ltc": "^8.25.46",
+    "coininfo": "^5.2.1",
+    "ethereumjs-util": "^7.1.5",
+    "ethereumjs-wallet": "^1.0.2",
+    "litecore-lib": "^0.13.22",
+    "tiny-secp256k1": "^2.2.1",
+    "tronweb": "^5.1.0",
+    "web3": "^1.8.2"
+  }
+}
